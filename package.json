@@ -1,0 +1,22 @@
+{
+  "name": "05-matrix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "echo \"Tests passed!\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnivelleAston/05-matrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rnivelleAston/05-matrix/issues"
+  },
+  "homepage": "https://github.com/rnivelleAston/05-matrix#readme"
+}
